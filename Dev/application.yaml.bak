@@ -7,7 +7,7 @@ spec:
   project: default
  
   source:
-    repoURL: https://github.com/chineduebinaso/argocd
+    repoURL: 
     targetversion: HEAD 
     path: Dev
   destination:
